@@ -1,4 +1,4 @@
 # chatBot
 chatBot using OpenAI tools 
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
